@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<answers>
+    <record code="1" text="Abraham Lincoln"/>
+    <record code="2" text="Harriet Tubman"/>
+    <record code="3" text="George Washington"/>
+    <record code="4" text="Benjamin Franklin"/>
+    <record code="1" text="TEST TEXT 1 Q 2 LVL 1"/>
+    <record code="2" text="TEST TEXT 2 Q 2 LVL 1"/>
+    <record code="3" text="TEST TEXT 3 Q 2 LVL 1"/>
+    <record code="4" text="TEST TEXT 4 Q 2 LVL 1"/>
+    <record code="1" text="TEST TEXT 1 Q 3 LVL 1"/>
+    <record code="2" text="TEST TEXT 2 Q 3 LVL 1"/>
+    <record code="3" text="TEST TEXT 3 Q 3 LVL 1"/>
+    <record code="4" text="TEST TEXT 4 Q 3 LVL 1"/>
+    <record code="1" text="TEST TEXT 1 Q 1 LVL 2"/>
+    <record code="2" text="TEST TEXT 2 Q 1 LVL 2"/>
+    <record code="3" text="TEST TEXT 3 Q 1 LVL 2"/>
+    <record code="4" text="TEST TEXT 4 Q 1 LVL 2"/>
+    <record code="1" text="TEST TEXT 1 Q 2 LVL 2"/>
+    <record code="2" text="TEST TEXT 2 Q 2 LVL 2"/>
+    <record code="3" text="TEST TEXT 3 Q 2 LVL 2"/>
+    <record code="4" text="TEST TEXT 4 Q 2 LVL 2"/>
+    <record code="1" text="TEST TEXT 1 Q 3 LVL 2"/>
+    <record code="2" text="TEST TEXT 2 Q 3 LVL 2"/>
+    <record code="3" text="TEST TEXT 3 Q 3 LVL 2"/>
+    <record code="4" text="TEST TEXT 4 Q 3 LVL 2"/>
+    <record code="1" text="TEST TEXT 1 Q 1 LVL 3"/>
+    <record code="2" text="TEST TEXT 2 Q 1 LVL 3"/>
+    <record code="3" text="TEST TEXT 3 Q 1 LVL 3"/>
+    <record code="4" text="TEST TEXT 4 Q 1 LVL 3"/>
+    <record code="1" text="TEST TEXT 1 Q 2 LVL 3"/>
+    <record code="2" text="TEST TEXT 2 Q 2 LVL 3"/>
+    <record code="3" text="TEST TEXT 3 Q 2 LVL 3"/>
+    <record code="4" text="TEST TEXT 4 Q 2 LVL 3"/>
+    <record code="1" text="TEST TEXT 1 Q 3 LVL 3"/>
+    <record code="2" text="TEST TEXT 2 Q 3 LVL 3"/>
+    <record code="3" text="TEST TEXT 3 Q 3 LVL 3"/>
+    <record code="4" text="TEST TEXT 4 Q 3 LVL 3"/>
+    <record code="1" text="TEST TEXT 1 Q 1 LVL 4"/>
+    <record code="2" text="TEST TEXT 2 Q 1 LVL 4"/>
+    <record code="3" text="TEST TEXT 3 Q 1 LVL 4"/>
+    <record code="4" text="TEST TEXT 4 Q 1 LVL 4"/>
+    <record code="1" text="TEST TEXT 1 Q 2 LVL 4"/>
+    <record code="2" text="TEST TEXT 2 Q 2 LVL 4"/>
+    <record code="3" text="TEST TEXT 3 Q 2 LVL 4"/>
+    <record code="4" text="TEST TEXT 4 Q 2 LVL 4"/>
+    <record code="1" text="TEST TEXT 1 Q 3 LVL 4"/>
+    <record code="2" text="TEST TEXT 2 Q 3 LVL 4"/>
+    <record code="3" text="TEST TEXT 3 Q 3 LVL 4"/>
+    <record code="4" text="TEST TEXT 4 Q 3 LVL 4"/>
+    <record code="1" text="TEST TEXT 1 Q 1 LVL 5"/>
+    <record code="2" text="TEST TEXT 2 Q 1 LVL 5"/>
+    <record code="3" text="TEST TEXT 3 Q 1 LVL 5"/>
+    <record code="4" text="TEST TEXT 4 Q 1 LVL 5"/>
+    <record code="1" text="TEST TEXT 1 Q 2 LVL 5"/>
+    <record code="2" text="TEST TEXT 2 Q 2 LVL 5"/>
+    <record code="3" text="TEST TEXT 3 Q 2 LVL 5"/>
+    <record code="4" text="TEST TEXT 4 Q 2 LVL 5"/>
+    <record code="1" text="TEST TEXT 1 Q 3 LVL 5"/>
+    <record code="2" text="TEST TEXT 2 Q 3 LVL 5"/>
+    <record code="3" text="TEST TEXT 3 Q 3 LVL 5"/>
+    <record code="4" text="TEST TEXT 4 Q 3 LVL 5"/>
+</answers>

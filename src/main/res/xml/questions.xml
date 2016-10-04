@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <record level="1" text="Who was the first President of the United States?"/>
+    <record level="1" text="On what day of the year do we celebrate Independence Day?"/>
+    <record level="1" text="TEST TEXT 3 LVL 1"/>
+    <record level="2" text="TEST TEXT 1 LVL 2"/>
+    <record level="2" text="TEST TEXT 2 LVL 2"/>
+    <record level="2" text="TEST TEXT 3 LVL 2"/>
+    <record level="3" text="TEST TEXT 1 LVL 3"/>
+    <record level="3" text="TEST TEXT 2 LVL 3"/>
+    <record level="3" text="TEST TEXT 3 LVL 3"/>
+    <record level="4" text="TEST TEXT 1 LVL 4"/>
+    <record level="4" text="TEST TEXT 2 LVL 4"/>
+    <record level="4" text="TEST TEXT 3 LVL 4"/>
+    <record level="5" text="TEST TEXT 1 LVL 5"/>
+    <record level="5" text="TEST TEXT 2 LVL 5"/>
+    <record level="5" text="TEST TEXT 3 LVL 5"/>
+</questions>
